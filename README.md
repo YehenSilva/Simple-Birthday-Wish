@@ -80,13 +80,13 @@ pip install pyttsx3
 1. Clone this repository:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/YehenSilva/Simple-Birthday-Wish.git
 ```
 
 2. Run the Python script:
 
 ```bash
-python birthday_wisher.py
+python Main.py
 ```
 
 3. Enter a name when prompted, and the program will wish them a Happy Birthday aloud. Type `exit` to quit.
@@ -101,19 +101,3 @@ HAPPY BIRTHDAY DEAR YEHEN
 HAPPY BIRTHDAY TO YOU
 ```
 
-## License
-
-This project is open-source and available under the MIT License.
-
-```
-
----
-
-This version:  
-- Has a reusable `wish()` function.  
-- Continuously prompts for names until the user types `exit`.  
-- Converts names to uppercase.  
-- Comes with a ready-to-use README for GitHub.  
-
-If you want, I can **also make the song repeat the first two lines exactly like the classic birthday tune**, so it sounds more natural when spoken. Do you want me to do that?
-```
