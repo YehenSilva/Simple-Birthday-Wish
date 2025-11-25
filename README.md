@@ -1,7 +1,3 @@
-Got it! Here's an **all-in-one Python project** ready for GitHub with a working script and README content included. You can just save the Python file and push it along with the README.
-
----
-
 ### `birthday_wisher.py`
 
 ```python
